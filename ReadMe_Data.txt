@@ -1,9 +1,9 @@
 THIS README WAS COPIED FROM THE ORIGINAL SOURCE (link at the bottom), So that I could have documented the origin of the data I'll use in my stand alone project - @ArmandoDLaRosa
 
-#Context
+# Context
 Is the movie industry dying? is Netflix the new entertainment king? Those were the first questions that lead me to create a dataset focused on movie revenue and analyze it over the last decades. But, why stop there? There are more factors that intervene in this kind of thing, like actors, genres, user ratings and more. And now, anyone with experience (you) can ask specific questions about the movie industry, and get answers.
 
-#Content
+# Content
 There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:
 
 * budget: the budget of a movie. Some movies don't have this, so it appears as 0
@@ -22,9 +22,9 @@ There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movi
 * writer: writer of the movie
 * year: year of release
 
-#Acknowledgements
+# Acknowledgements
 This data was scraped from IMDb.
 
 
-#Source
+# Source
 https://github.com/danielgrijalva/movie-stats
